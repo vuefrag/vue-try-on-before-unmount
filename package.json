@@ -1,7 +1,7 @@
 {
   "name": "vue-try-on-before-unmount",
   "version": "1.0.0",
-  "description": "Vue 3 composable utility",
+  "description": "Vue 3 safe onBeforeUnmount working inside and outside setup",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -24,12 +24,16 @@
     "postpublish": "cp README.github.md README.md"
   },
   "keywords": [
+    "vue",
+    "vue3",
+    "composition-api",
+    "composable",
+    "vueuse",
     "lifecycle",
     "beforeUnmount",
     "safe",
     "hook",
     "setup",
-    "composable",
     "cleanup"
   ],
   "author": "VueFrag",
