@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="vue-try-on-before-unmount" width="100%" />
+  <img src="https://raw.githubusercontent.com/vuefrag/vue-try-on-before-unmount/main/banner.svg" alt="vue-try-on-before-unmount" width="100%" />
 </p>
 
 <h1 align="center">vue-try-on-before-unmount</h1>
