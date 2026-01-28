@@ -19,10 +19,8 @@ npm install vue-try-on-before-unmount
 
 ## Usage
 
-Safe `onBeforeUnmount`. Call `onBeforeUnmount()` if it's inside a component lifecycle, if not, do nothing
-
 ```ts
-import { tryOnBeforeUnmount } from 'vue-try-on-before-unmount'
+import { tryOnBeforeUnmount } from '@vueuse/core'
 
 tryOnBeforeUnmount(() => {
 
