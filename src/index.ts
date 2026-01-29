@@ -3,7 +3,6 @@ import type { ComponentInternalInstance } from 'vue'
 type Fn = () => void
 
 import { onBeforeUnmount } from 'vue'
-// Inlined from @vueuse/shared/utils
 import type { ComponentInternalInstance } from 'vue'
 import { getCurrentInstance } from 'vue'
 

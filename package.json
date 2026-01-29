@@ -1,6 +1,6 @@
 {
   "name": "vue-try-on-before-unmount",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue 3 safe onBeforeUnmount working inside and outside setup",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
@@ -45,7 +45,7 @@
   },
   "homepage": "https://github.com/vuefrag/vue-try-on-before-unmount#readme",
   "peerDependencies": {
-    "vue": ">=3.0.0"
+    "vue": "^3.5.0"
   },
   "devDependencies": {
     "unbuild": "^2.0.0",
